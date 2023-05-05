@@ -1,5 +1,6 @@
 # ABDSAL022_FTC2301_Group-Naeem_Abdud-DayaanSalie_IWA19_Capstone 
-Final Capstone Project IWA19
+## Final Capstone Project IWA19
+https://docs.google.com/presentation/d/1bZZPEL_XmDq5iG2yTSWi0wINFH7AnGMF_P2LH9_hAW4/edit#slide=id.p
  
 
 As a junior JavaScript developer, you have been approached by a small startup called Book Connect. They run a social media platform specifically targeted at book enthusiasts. A basic version of the product was created by another freelance developer.
